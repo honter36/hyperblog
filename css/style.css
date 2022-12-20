@@ -10,3 +10,15 @@ body
  max-width: 1200px;
  margin: 0 auto;
 }
+
+
+.cabecera{
+	width: 100%;
+ max-width: 1200px;
+ margin: 0 auto;
+}
+
+
+.cabecera h2{
+	font-size: 14px;
+}
