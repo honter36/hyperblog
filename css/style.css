@@ -3,3 +3,10 @@ body
 	text-align: center;
 	font-size: 12px;
 }
+
+
+.cointer{
+ width: 100%;
+ max-width: 1200px;
+ margin: 0 auto;
+}
